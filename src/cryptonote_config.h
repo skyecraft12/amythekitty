@@ -37,7 +37,7 @@
 #define DEFAULT_FEE                                     
 
 //TODO Define preferred block's target time
-#define DIFFICULTY_TARGET                               120 // seconds
+#define DIFFICULTY_TARGET                               60 // seconds
 //TODO There are options to tune CryptoNote's difficulty retargeting function. 
 //TODO We recommend not to change it.
 #define DIFFICULTY_WINDOW                               720 // blocks
